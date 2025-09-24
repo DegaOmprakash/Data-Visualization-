@@ -1,4 +1,5 @@
 📊 Sales Data Dashboard
+
 📌 Project Overview
 
 This project is a Sales Data Dashboard built in Power BI to analyze company performance across different regions, products, and customer demographics.
